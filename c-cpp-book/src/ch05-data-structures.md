@@ -11,7 +11,7 @@
     }
     
     fn main() {
-        // Initializes an array of 10 elements and sets all to 42
+        // Initializes an array of 3 elements and sets all to 42
         let a : [u8; 3] = [42; 3];
         // Alternative syntax
         // let a = [42u8, 42u8, 42u8];
