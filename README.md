@@ -57,9 +57,8 @@ Each book has 15–16 chapters with Mermaid diagrams, editable Rust playgrounds,
 
 > **Tip:** Browse the rendered books with sidebar navigation and search at the [GitHub Pages site](https://microsoft.github.io/RustTraining/).
 >
-> **Local preview:** For offline reading or while contributing:
+> **Local preview:** For offline reading or while contributing ([install Rust](https://rustup.rs/) first):
 > ```
-> # Install Rust via rustup if you don't have it: https://rustup.rs/
 > git clone https://github.com/microsoft/RustTraining.git
 > cd RustTraining
 > cargo install mdbook mdbook-mermaid
